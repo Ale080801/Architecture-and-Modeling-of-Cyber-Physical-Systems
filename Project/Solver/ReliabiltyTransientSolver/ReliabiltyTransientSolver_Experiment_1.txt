@@ -1,0 +1,236 @@
+Mobius trs Version 2.5, 
+Copyright (c) William H. Sanders and Univ. of Illinois 1994-2010
+
+******************************************************************************
+                           Mobius TRANSIENT SOLVER 
+
+                          TRANSIENT SOLVER RESULTS
+******************************************************************************
+
+Started: Mon May 04 11:27:26 2026
+
+Project name: Project
+Study name: studySAN
+State space name: stateSpaceSAN
+Experiment name: Experiment_1
+
+Global variable settings for this experiment:
+	lambda = 0.01
+	mu = 0.01
+
+Verbosity: 4
+Accuracy: 1.000000e-001
+Time points: 24.000000 360.000000 1080.000000 2520.000000 5400.000000 11160.000000
+CTMC has 34 states and 68 transitions.
+Lambda =  0.0425
+Truncation points for t = 24.000000 are 0 and 7
+Truncation points for t = 360.000000 are 0 and 34
+Truncation points for t = 1080.000000 are 30 and 77
+Truncation points for t = 2520.000000 are 84 and 153
+Truncation points for t = 5400.000000 are 197 and 296
+Truncation points for t = 11160.000000 are 429 and 569
+The maximum number of iterations is 569
+4 iterations completed.
+8 iterations completed.
+12 iterations completed.
+16 iterations completed.
+20 iterations completed.
+24 iterations completed.
+28 iterations completed.
+32 iterations completed.
+36 iterations completed.
+40 iterations completed.
+44 iterations completed.
+48 iterations completed.
+52 iterations completed.
+56 iterations completed.
+60 iterations completed.
+64 iterations completed.
+68 iterations completed.
+72 iterations completed.
+76 iterations completed.
+80 iterations completed.
+84 iterations completed.
+88 iterations completed.
+92 iterations completed.
+96 iterations completed.
+100 iterations completed.
+104 iterations completed.
+108 iterations completed.
+112 iterations completed.
+116 iterations completed.
+120 iterations completed.
+124 iterations completed.
+128 iterations completed.
+132 iterations completed.
+136 iterations completed.
+140 iterations completed.
+144 iterations completed.
+148 iterations completed.
+152 iterations completed.
+156 iterations completed.
+160 iterations completed.
+164 iterations completed.
+168 iterations completed.
+172 iterations completed.
+176 iterations completed.
+180 iterations completed.
+184 iterations completed.
+188 iterations completed.
+192 iterations completed.
+196 iterations completed.
+200 iterations completed.
+204 iterations completed.
+208 iterations completed.
+212 iterations completed.
+216 iterations completed.
+220 iterations completed.
+224 iterations completed.
+228 iterations completed.
+232 iterations completed.
+236 iterations completed.
+240 iterations completed.
+244 iterations completed.
+248 iterations completed.
+252 iterations completed.
+256 iterations completed.
+260 iterations completed.
+264 iterations completed.
+268 iterations completed.
+272 iterations completed.
+276 iterations completed.
+280 iterations completed.
+284 iterations completed.
+288 iterations completed.
+292 iterations completed.
+296 iterations completed.
+300 iterations completed.
+304 iterations completed.
+308 iterations completed.
+312 iterations completed.
+316 iterations completed.
+320 iterations completed.
+324 iterations completed.
+328 iterations completed.
+332 iterations completed.
+336 iterations completed.
+340 iterations completed.
+344 iterations completed.
+348 iterations completed.
+352 iterations completed.
+356 iterations completed.
+360 iterations completed.
+364 iterations completed.
+368 iterations completed.
+372 iterations completed.
+376 iterations completed.
+380 iterations completed.
+384 iterations completed.
+388 iterations completed.
+392 iterations completed.
+396 iterations completed.
+400 iterations completed.
+404 iterations completed.
+408 iterations completed.
+412 iterations completed.
+416 iterations completed.
+420 iterations completed.
+424 iterations completed.
+428 iterations completed.
+432 iterations completed.
+436 iterations completed.
+440 iterations completed.
+444 iterations completed.
+448 iterations completed.
+452 iterations completed.
+456 iterations completed.
+460 iterations completed.
+464 iterations completed.
+468 iterations completed.
+472 iterations completed.
+476 iterations completed.
+480 iterations completed.
+484 iterations completed.
+488 iterations completed.
+492 iterations completed.
+496 iterations completed.
+500 iterations completed.
+504 iterations completed.
+508 iterations completed.
+512 iterations completed.
+516 iterations completed.
+520 iterations completed.
+524 iterations completed.
+528 iterations completed.
+532 iterations completed.
+536 iterations completed.
+540 iterations completed.
+544 iterations completed.
+548 iterations completed.
+552 iterations completed.
+556 iterations completed.
+560 iterations completed.
+564 iterations completed.
+568 iterations completed.
+Computation Time (seconds): 0.000000
+User Time (seconds): 0.000000
+System Time (seconds): 0.000000
+Rate of Poisson process: 0.042500
+Number of states in process: 34
+Number of states with reward: 22
+Number of time points: 6
+
+      Time Point       Left Trunc.      # Iterations          Error     
+   ---------------   ---------------   ---------------   ---------------
+         24.000000                 0                 7     1.000000e-001
+        360.000000                 0                34     1.000000e-001
+       1080.000000                30                77     1.000000e-001
+       2520.000000                84               153     1.000000e-001
+       5400.000000               197               296     1.000000e-001
+      11160.000000               429               569     1.000000e-001
+
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  24.000000
+Mean                 :  9.416533e-001
+Variance             :  5.494234e-002
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.24.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.24.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  360.000000
+Mean                 :  1.458947e-001
+Variance             :  1.246094e-001
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.360.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.360.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  1080.000000
+Mean                 :  5.606235e-004
+Variance             :  5.603092e-004
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.1080.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.1080.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  2520.000000
+Mean                 :  8.585941e-009
+Variance             :  8.585941e-009
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.2520.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.2520.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  5400.000000
+Mean                 :  1.513222e-018
+Variance             :  1.513222e-018
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.5400.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.5400.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  11160.000000
+Mean                 :  2.629008e-038
+Variance             :  2.629008e-038
+Plot files    (pdf)  :  Experiment_1.trs.Reliability.11160.000.pdf.splot
+              (cdf)  :  Experiment_1.trs.Reliability.11160.000.cdf.splot
+******************************************************************************
+Finished: Mon May 04 11:27:26 2026
+

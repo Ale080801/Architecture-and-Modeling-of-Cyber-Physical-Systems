@@ -1,0 +1,98 @@
+Mobius trs Version 2.5, 
+Copyright (c) William H. Sanders and Univ. of Illinois 1994-2010
+
+******************************************************************************
+                           Mobius TRANSIENT SOLVER 
+
+                          TRANSIENT SOLVER RESULTS
+******************************************************************************
+
+Started: Mon May 04 11:27:30 2026
+
+Project name: Project
+Study name: studySAN
+State space name: stateSpaceSAN
+Experiment name: Experiment_9
+
+Global variable settings for this experiment:
+	lambda = 1.0E-4
+	mu = 1.0E-4
+
+Verbosity: 4
+Accuracy: 1.000000e-001
+Time points: 24.000000 360.000000 1080.000000 2520.000000 5400.000000 11160.000000
+CTMC has 34 states and 68 transitions.
+Lambda =  0.000425
+Truncation points for t = 24.000000 are 0 and 3
+Truncation points for t = 360.000000 are 0 and 4
+Truncation points for t = 1080.000000 are 0 and 5
+Truncation points for t = 2520.000000 are 0 and 7
+Truncation points for t = 5400.000000 are 0 and 11
+Truncation points for t = 11160.000000 are 0 and 16
+The maximum number of iterations is 16
+4 iterations completed.
+8 iterations completed.
+12 iterations completed.
+16 iterations completed.
+Computation Time (seconds): 0.000000
+User Time (seconds): 0.000000
+System Time (seconds): 0.000000
+Rate of Poisson process: 0.000425
+Number of states in process: 34
+Number of states with reward: 22
+Number of time points: 6
+
+      Time Point       Left Trunc.      # Iterations          Error     
+   ---------------   ---------------   ---------------   ---------------
+         24.000000                 0                 3     1.000000e-001
+        360.000000                 0                 4     1.000000e-001
+       1080.000000                 0                 5     1.000000e-001
+       2520.000000                 0                 7     1.000000e-001
+       5400.000000                 0                11     1.000000e-001
+      11160.000000                 0                16     1.000000e-001
+
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  24.000000
+Mean                 :  9.994002e-001
+Variance             :  5.994602e-004
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.24.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.24.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  360.000000
+Mean                 :  9.910405e-001
+Variance             :  8.879193e-003
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.360.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.360.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  1080.000000
+Mean                 :  9.733614e-001
+Variance             :  2.592900e-002
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.1080.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.1080.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  2520.000000
+Mean                 :  9.388061e-001
+Variance             :  5.744917e-002
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.2520.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.2520.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  5400.000000
+Mean                 :  8.701659e-001
+Variance             :  1.129772e-001
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.5400.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.5400.000.cdf.splot
+******************************************************************************
+Performance variable :  Reliability
+Time                 :  11160.000000
+Mean                 :  7.144825e-001
+Variance             :  2.039973e-001
+Plot files    (pdf)  :  Experiment_9.trs.Reliability.11160.000.pdf.splot
+              (cdf)  :  Experiment_9.trs.Reliability.11160.000.cdf.splot
+******************************************************************************
+Finished: Mon May 04 11:27:30 2026
+
