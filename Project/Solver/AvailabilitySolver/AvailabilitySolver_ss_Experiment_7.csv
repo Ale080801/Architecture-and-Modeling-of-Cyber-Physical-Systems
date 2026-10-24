@@ -1,6 +1,0 @@
-## Exp Num, PV Num, PV Name, Start Time, Stop Time, Type, Mean, Variance,NumDistPts
-0,0,Availability,-1.000000,1.000000,Results,0.004975,0.004950,2
-## Dist,x, P(X=x), P(X<=x)
-Dist,0.000000,0.995025,0.995025
-Dist,1.000000,0.004975,1.000000
-

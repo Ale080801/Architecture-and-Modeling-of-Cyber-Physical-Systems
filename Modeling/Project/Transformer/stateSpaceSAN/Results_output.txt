@@ -1,0 +1,160 @@
+
+**********************************************************
+
+State Generation initiated on Experiment_1 of stateSpaceSAN started at Mon May 04 11:26:32 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius1320659080367807293license
+License Verified.
+The Global Variable values for experiment Experiment 1 are:
+lambda	double	0.01
+mu	double	0.01
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 9.400000e-002 seconds
+State Generation of Experiment_1 on model stateSpaceSAN finished at Mon May 04 11:26:33 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_2 of stateSpaceSAN started at Mon May 04 11:26:33 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius6976949997341181045license
+License Verified.
+The Global Variable values for experiment Experiment 2 are:
+lambda	double	0.001
+mu	double	0.01
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of Experiment_2 on model stateSpaceSAN finished at Mon May 04 11:26:34 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_3 of stateSpaceSAN started at Mon May 04 11:26:34 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius5809390585930572489license
+License Verified.
+The Global Variable values for experiment Experiment 3 are:
+lambda	double	0.0001
+mu	double	0.01
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 1.600000e-002 seconds
+State Generation of Experiment_3 on model stateSpaceSAN finished at Mon May 04 11:26:35 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_4 of stateSpaceSAN started at Mon May 04 11:26:35 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius1452598002461519267license
+License Verified.
+The Global Variable values for experiment Experiment 4 are:
+lambda	double	0.01
+mu	double	0.001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 1.600000e-002 seconds
+State Generation of Experiment_4 on model stateSpaceSAN finished at Mon May 04 11:26:35 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_5 of stateSpaceSAN started at Mon May 04 11:26:35 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius7687487201698960087license
+License Verified.
+The Global Variable values for experiment Experiment 5 are:
+lambda	double	0.001
+mu	double	0.001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of Experiment_5 on model stateSpaceSAN finished at Mon May 04 11:26:36 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_6 of stateSpaceSAN started at Mon May 04 11:26:36 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius4381502387672556079license
+License Verified.
+The Global Variable values for experiment Experiment 6 are:
+lambda	double	0.0001
+mu	double	0.001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of Experiment_6 on model stateSpaceSAN finished at Mon May 04 11:26:37 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_7 of stateSpaceSAN started at Mon May 04 11:26:37 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius6404220990769676517license
+License Verified.
+The Global Variable values for experiment Experiment 7 are:
+lambda	double	0.01
+mu	double	0.0001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 1.500000e-002 seconds
+State Generation of Experiment_7 on model stateSpaceSAN finished at Mon May 04 11:26:37 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_8 of stateSpaceSAN started at Mon May 04 11:26:37 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius2779819807450367139license
+License Verified.
+The Global Variable values for experiment Experiment 8 are:
+lambda	double	0.001
+mu	double	0.0001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of Experiment_8 on model stateSpaceSAN finished at Mon May 04 11:26:38 CEST 2026.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on Experiment_9 of stateSpaceSAN started at Mon May 04 11:26:38 CEST 2026 ...
+path=[c:/MobiusProject/Project/Transformer/stateSpaceSAN/]
+License File=C:\Users\vboxuser\AppData\Local\Temp\mobius2861787892032609912license
+License Verified.
+The Global Variable values for experiment Experiment 9 are:
+lambda	double	0.0001
+mu	double	0.0001
+SSG: SetTraceLevel: 0
+
+Generated: 34 states
+Computation Time (user + system): 6.200000e-002 seconds
+State Generation of Experiment_9 on model stateSpaceSAN finished at Mon May 04 11:26:38 CEST 2026.
+
